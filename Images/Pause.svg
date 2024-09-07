@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 24 24" fill="none">
+  <!-- White Circle Background -->
+  <circle cx="12" cy="12" r="10" fill="white" stroke="#000000" stroke-width="1.5" />
+  
+  <!-- Pause Bars (filled with black color) -->
+  <!-- Decreased width and shifted to the right -->
+  <rect x="7" y="7" width="3" height="10" fill="black" stroke="#000000" stroke-width="1.5"/>
+  <rect x="14" y="7" width="3" height="10" fill="black" stroke="#000000" stroke-width="1.5"/>
+</svg>
+
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44" fill="none">
+  
+  <circle cx="22" cy="22" r="20" fill="white" stroke="#000000" stroke-width="1.5"/>
+  <path d="M2 9H17V21H2V9Z" fill="black"/>
+  <path d="M22 9H37V21H22V9Z" fill="black"/>
+</svg> -->
