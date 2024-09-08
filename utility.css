@@ -1,0 +1,45 @@
+.border{
+    border: 1px solid rgb(255, 0, 0);
+}
+
+.flex{
+    display: flex;
+}
+.justify_content{
+    justify-content: center;
+}
+.align_item{
+    align-items: center;
+}
+.bg_black{
+    background-color: black;
+    color: white;
+}
+.invert{
+    filter: invert(1);
+}
+.bg_grey{
+    background-color: #121212;
+}
+.round_borders{
+    border-radius: 8px;
+}
+.grey_text{
+    color: rgb(179, 179, 179);
+}
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #5a5a5a;
+    border-radius: 6px;
+  }
+  
+  ::-webkit-scrollbar-track:hover {
+    background-color: #333; 
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(179, 179, 179);
+  }
